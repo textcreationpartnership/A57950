@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech and execution of William Lord Russel who was executed for high-treason against His Majesty, and conspiring the death of His Royal Highness, James, Duke of York : Saturday the 21th of this instant July the Lord Russel was beheaded in Lincolns-Inn-Fields.</title>
+            <author>Russell, William, Lord, 1639-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57950</idno>
+            <idno type="STC">Wing R2354</idno>
+            <idno type="STC">ESTC R36799</idno>
+            <idno type="EEBO-CITATION">16016830</idno>
+            <idno type="OCLC">ocm 16016830</idno>
+            <idno type="VID">104783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech and execution of William Lord Russel who was executed for high-treason against His Majesty, and conspiring the death of His Royal Highness, James, Duke of York : Saturday the 21th of this instant July the Lord Russel was beheaded in Lincolns-Inn-Fields.</title>
+                  <author>Russell, William, Lord, 1639-1683.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.V.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rye House Plot, 1683.</term>
+               <term>Treason --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104783:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>The ſpeech and CONFESSION OF <hi>William Lord Ruſſel</hi> who was EXECUTED FOR High-Treaſon againſt his Majeſty, and conſpiring the Death of his Royal Highneſs <hi>James Duke</hi> of <hi>York.</hi> Saturday the 21th of this inſtant <hi>July</hi> the Lord <hi>Ruſſel</hi> was beheaded in <hi>Lincolns-Jnn-Feilds.</hi>
+            </head>
+            <p>THe Report and True account, of the late Horrid and Damnable Plot contrived againſt our moſt Gracious Soveraign, and his Royal Brother <hi>James</hi> Duke of <hi>York.</hi> I doubt not but is by this time ſpread throughout the Nation to the amazement of many, and the wonder of all who have but the leaſt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>incture of Loyalty lodg in the Breſt of of obedient Subjects, but that <hi>William</hi> Lord <hi>Ruſſel,</hi> once thought a Patern of Gentility, ſhould be Treacherous, is as wonderful to ſome, as lamented by many, but not to digreſs from my in<g ref="char:EOLhyphen"/>tended purpoſe. Let me acquaint you with the Gradual Pro<g ref="char:EOLhyphen"/>ceedings at the laſt Seſſions, where my Lord after a fair Tryal Received his Sentence of Condemnation. Great Endeavours
+<pb n="2" facs="tcp:104783:2"/>
+               <!-- PDF PAGE 20 -->were uſed for his Remiſſion, but the Fact wherewith he was charged, ſavoured ſo much of Diſloyalty, and Conſpiracy of Treaſonable Contrivances, that ſueing for pardon was as in<g ref="char:EOLhyphen"/>ſignificant, as his Crime Abominable: but after all Endeavours uſed to keep him from the Fatal Stroak, order was given for E<g ref="char:EOLhyphen"/>recting a Scaffold in <hi>Lincoln's-Inn-Fields,</hi> there to be the laſt Stage he ſhould tread, and become an Example to all perſons who ſo unadviſedly, will intangle themſelves into ſuch a Laby<g ref="char:EOLhyphen"/>rinth of Confuſion.</p>
+            <p>My Lord in the time of his Confinement ſeemed to be much concerned, for his (then) preſent State, deploring his ſad condi<g ref="char:EOLunhyphen"/>tion, and much like a Chriſtian, repenting his ill undertaken enterprize. Never was man more applauded for Generoſity to the poor, for Tenderneſs to all perſons in diſtreſs, and ten thouſand pitties, it is that a perſon of ſuch Rare Qualificati<g ref="char:EOLhyphen"/>ons, ſhould by any indirect means be ſo wrought upon, as to be concerned, in ſuch a matchleſs conſpiracy<g ref="char:punc">▪</g> But Heaven that always frowns upon ſuch Deeds of Darkneſs, will by ſome means or other, bring to light the accurſed Stratagems of pre<g ref="char:EOLhyphen"/>meditated Murther.</p>
+            <p>But having received an unchangeable Sentence of ſuffering for his great Crime, he like a Chriſtian, prepared for his ſud<g ref="char:EOLhyphen"/>den change, and I doubt not but his true penitencie, for his raſh undertaking may prove advantagous to his immortal Soul: and that though he dies as a Malefactor here, yet through the Mercys of Jeſus Chriſt, he may live eternally in the World to come.</p>
+            <p>But the day of his Execution being come, and on <hi>Saturday July</hi> 21 1083. He was conveyed to the place of Execution, which was appointed in <hi>Lincolns-Inn-Fields,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Habitation, being accompained with thouſands of wondring Eyes, and aching Hearts.</p>
+            <pb n="3" facs="tcp:104783:2"/>
+            <!-- PDF PAGE 20 -->
+            <p>He mounted the Stage, where by his amazed looks, it was ea<g ref="char:EOLunhyphen"/>ſily to gueſs the ſorrow of his afflicted heart, while his poor Lady, and the reſt of his neareſt Relations, were ready to ſink under the burthen of their Calamity, but as he was a Gentle<g ref="char:EOLhyphen"/>man, whoſe Education was inferiour to but a few, ſo he deport<g ref="char:EOLunhyphen"/>ed himſelf, that he begat pity in the hearts of the Spectators, all pittying his deſerved puniſhment, and lamenting his ſad Fate Thus Traverſing the Fatal Stage, he at laſt made a worthy Ora<g ref="char:EOLhyphen"/>tion acknowledging his crime, for which he was juſtly condem<g ref="char:EOLhyphen"/>ned, adviſing all to be Loyal and True, and that his untime<g ref="char:EOLhyphen"/>ly end might be a warning to all others, never by hopes of fu<g ref="char:EOLhyphen"/>ture advantage to lodge the leaſt of diſloyalty in the moſt ſecret Cloſets of their Hearts; ſince Heaven hath forbid the ſhedding of Innocent Blood, which without doubt, drop for drop muſt be accounted for, with watry Eyes. Thouſands beheld this dying Gentleman, and none ſo obdure as not to grieve at his unfortu<g ref="char:EOLhyphen"/>nate overthrow.</p>
+            <p>But after ſome ſpeech made by him, having the good admonitions of ſome Devines, which he kindly received, he prepared himſelf for the block, &amp; with unwilling willingneſs ſubmitted to the ſeverity of the Law, while aching heart could grant him no redreſs, but with volums of ſighs, ſent forth palpable ſignals of their un<g ref="char:EOLhyphen"/>expreſſable ſorrow.</p>
+            <p>But to come to a concluſion. After he had de<g ref="char:EOLhyphen"/>livered himſelf Verbally to the Auditory, and directed his prayers to the creator of all things, he took veiw of the block and having fitted himſelfe for the ſtroak, he laid down his head, and paid dearly for his conſpiracy, the ex<g ref="char:EOLhyphen"/>ecutioner doing his buſineſs by ſevering his head from his body at 2 or 3 Stroaks</p>
+            <pb n="4" facs="tcp:104783:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 21 -->
+            <p>God grant that this his death may be a warn<g ref="char:EOLhyphen"/>ing to all, that they may never become guilty of ſuch Diabolical conſpiracies, ſince the world can not but admire the inſolency of ſuch offenders who Sayter like ſeek the deſtruction of their lawfull Prince.</p>
+            <p>What incouragment can Traytors have, to undertake ſuch dangerous attempts, or what can they purpoſe to themſelves, ſince murther is ab<g ref="char:EOLhyphen"/>ſolutly forbid by the command of the Almighty But to Murther a King, is without doubt a crime ſo deteſtable in the common ſence of the very Vulgar that nothing is ſufficient to expiate its abominations.</p>
+            <p>In what a flouriſhing condition might <hi>Eng<g ref="char:EOLhyphen"/>land</hi> be, could they but be unaonimous among themſelves and loyal to their Prince, till then we cannot expect but continual troubles and an end thereof ſhall be the unfeigned prayer of your nameleſs Friend</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>R. V.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
